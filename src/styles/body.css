@@ -1,0 +1,18 @@
+body{
+    font-family: 'Source Code Pro', monospace;
+}
+.shadow{
+    -webkit-box-shadow: 0px 6px 23px -7px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 6px 23px -7px rgba(0,0,0,0.75);
+    box-shadow: 0px 6px 23px -7px rgba(0,0,0,0.75);
+    border: 1px solid white;
+}
+.shadow-product{
+    -webkit-box-shadow: 0px 6px 23px -7px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 6px 23px -7px rgba(0,0,0,0.75);
+    box-shadow: 0px 6px 23px -7px rgba(0,0,0,0.75);
+}
+.info-text{
+    font-size: .5rem;
+    letter-spacing: 1px;
+}
