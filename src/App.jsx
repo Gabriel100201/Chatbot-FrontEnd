@@ -3,6 +3,7 @@ import { Banner } from './components/Banner'
 import { Info } from './components/Info'
 import { Catalogue } from './components/Catalogue'
 import { Contact } from './components/Contact'
+import { Footer } from './components/Footer'
 function App() {
 
   return (
@@ -12,6 +13,7 @@ function App() {
       <Info></Info>
       <Catalogue></Catalogue>
       <Contact></Contact>
+      <Footer></Footer>
     </div>
   )
 }
