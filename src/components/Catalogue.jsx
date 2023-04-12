@@ -13,13 +13,17 @@ export const Catalogue = () => {
                 <Product></Product>
                 <Product></Product>
             </div>
-            <a href="#" className="flex justify-center items-center mt-7">
+            <a href="#" className="flex justify-center items-center mt-9">
                 <span className="text-[10px] font-bold mr-3">Ver Todos</span>
                 <svg width="11" height="9" viewBox="0 0 11 9" fill="none" xmlns="http://www.w3.org/2000/svg">
                     <path d="M6.94561 8.11026C6.83262 8.11026 6.71962 8.06863 6.63042 7.97943C6.45795 7.80696 6.45795 7.5215 6.63042 7.34904L9.92508 4.05438L6.63042 0.759734C6.45795 0.58727 6.45795 0.301812 6.63042 0.129348C6.80288 -0.043116 7.08834 -0.043116 7.2608 0.129348L10.8707 3.73919C11.0431 3.91165 11.0431 4.19711 10.8707 4.36957L7.2608 7.97943C7.1716 8.06863 7.0586 8.11026 6.94561 8.11026Z" fill="#292D32"/>
                     <path d="M10.4549 4.50033H0.446028C0.202199 4.50033 0 4.29813 0 4.0543C0 3.81048 0.202199 3.60828 0.446028 3.60828H10.4549C10.6987 3.60828 10.9009 3.81048 10.9009 4.0543C10.9009 4.29813 10.6987 4.50033 10.4549 4.50033Z" fill="#292D32"/>
                 </svg>
             </a>
+            <svg className="mt-9" width="333" height="1" viewBox="0 0 333 1" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <line y1="0.5" x2="333" y2="0.5" stroke="black" stroke-opacity="0.54"/>
+            </svg>
+
         </section>
     )
 }
