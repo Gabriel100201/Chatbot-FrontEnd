@@ -1,0 +1,20 @@
+Importante!!!
+    -No modificar el input.css ni el output.css
+    -En body van los estilos generales de la pagina
+    -Crear nuevos css para cosas mas especificas si es necesario
+
+Dentro de src:
+    -No modificar main.jsx
+    -En App.jsx importar todos los componentes que se deben renderizar en la pagina
+    -Dentro de components crear los componentes necesarios
+
+Comandos utiles:
+
+    //Instalar todas las dependencias
+    npm install
+
+    //Para iniciar el renderizado de la pagina
+    npm run dev
+
+    //Para que los estilos aplicados en las clases se apliquen
+    npm run tailwind

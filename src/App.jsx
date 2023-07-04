@@ -1,21 +1,8 @@
-import { Header } from './components/Header'
-import { Banner } from './components/Banner'
-import { Info } from './components/Info'
-import { Catalogue } from './components/Catalogue'
-import { Contact } from './components/Contact'
-import { Footer } from './components/Footer'
-function App() {
-
+export const App = () => {
   return (
-    <div className="App bg-cream">
-      <Header></Header>
-      <Banner></Banner>
-      <Info></Info>
-      <Catalogue></Catalogue>
-      <Contact></Contact>
-      <Footer></Footer>
+    /* EJEMPLO */
+    <div className="w-10 h-10 bg-blue-500">
+      <h1>Gabi</h1>
     </div>
   )
 }
-
-export default App
