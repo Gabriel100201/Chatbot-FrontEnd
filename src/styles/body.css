@@ -1,2 +1,7 @@
 /* Aqui van los estilos generales
 por ejemplo la fuente de toda la pagina */
+.shadow {
+    -webkit-box-shadow: 10px 9px 5px -1px rgba(0,0,0,0.36);
+    -moz-box-shadow: 10px 9px 5px -1px rgba(0,0,0,0.36);
+    box-shadow: 10px 9px 5px -1px rgba(0,0,0,0.36);
+}
