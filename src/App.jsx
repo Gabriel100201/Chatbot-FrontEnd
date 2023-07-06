@@ -1,12 +1,14 @@
-import {Navbar} from "./components/Navbar"
-import {Cards} from "./components/Cards"
-import {ContainerCards} from "./components/ContainerCards"
+import { Navbar } from "./components/Navbar"
 import { Inicio } from "./components/Inicio"
+import { Servicio } from "./components/Servicio"
+import { ContainerCards } from "./components/ContainerCards"
 export const App = () => {
   return (
     <>
       <Navbar></Navbar>
-      <Inicio></Inicio>     
+      <Inicio></Inicio> 
+      <Servicio></Servicio>    
+      <ContainerCards></ContainerCards>
     </>
   )
 }
