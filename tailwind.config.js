@@ -7,6 +7,16 @@ export default {
         primary: "#000",
         fondosec: "#D0F7C4",
         verdesec:"#1DAB52",
+        bgoscuro:"#871C28",
+        
+      },
+      animation: {
+        shine: "shine 1s",
+      },
+      keyframes: {
+        shine: {
+          "100%": { left: "125%" },
+        },
       },
     },
   },
