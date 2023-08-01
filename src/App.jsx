@@ -1,10 +1,10 @@
-import { Navbar } from "./components/Navbar"
+import { NavbarBot } from "./components/NavbarBot"
 import { Inicio } from "./components/Inicio"
 import { Servicio } from "./components/Servicio"
 export const App = () => {
   return (
     <>
-      <Navbar></Navbar>
+      <NavbarBot></NavbarBot>
       <Inicio></Inicio> 
       <Servicio></Servicio>       
     </>

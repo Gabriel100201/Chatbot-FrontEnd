@@ -2,7 +2,7 @@ export const Inicio = () => {
     return (
         <section className="bg-fondosec w-full h-auto flex flex-col items-center pb-20">           
             <div className="w-full pl-4 py-16">
-            <h1 className="text-left md:text-center text-[35px] font-bold">La mejor manera de comenzar una conversación con tus clientes</h1>
+            <h1 className="text-left md:text-center text-[35px] font-bold pt-16">La mejor manera de comenzar una conversación con tus clientes</h1>
             </div>
             <h4 className="text-left md:text-center text-[20px] px-4">Te ayudamos a simplificar la atención al cliente y mejorar tu relación con ellos.</h4>
             <img src="src\assets\chatbot1.svg" alt="chatbot" className="w-[300px] md:w-[500px]" />
