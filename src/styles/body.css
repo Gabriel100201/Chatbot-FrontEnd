@@ -1,7 +1,11 @@
-/* Aqui van los estilos generales
-por ejemplo la fuente de toda la pagina */
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
 .shadow {
     -webkit-box-shadow: 10px 9px 5px -1px rgba(0,0,0,0.36);
     -moz-box-shadow: 10px 9px 5px -1px rgba(0,0,0,0.36);
     box-shadow: 10px 9px 5px -1px rgba(0,0,0,0.36);
+}
+
+body * {
+    font-family:'Raleway', sans-serif;
 }

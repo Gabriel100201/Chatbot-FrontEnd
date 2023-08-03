@@ -6,18 +6,18 @@ export const Footer =()=>{
         <div class="md:flex md:justify-between">
           <div class="mb-6 md:mb-0">
               <a href="" class="flex items-center">
-                  <img src="../src/assets/logochatbot.webp" class="h-8 mr-3" alt="TSJ Logo" />
+                  <img src="../src/assets/logofooter.png" class="h-24 mr-5" alt="TSJ Logo" />
               </a>
           </div>
           <div class="grid grid-cols-2 gap-8 sm:gap-6 sm:grid-cols-3">
               <div>
-                  <h2 class="mb-6 text-sm font-semibold text-white uppercase">Recursos</h2>
+                  <h2 class="mb-6 text-sm font-semibold text-white uppercase">Servicios</h2>
                   <ul class="text-white dark:text-gray-400 font-medium">
                       <li class="mb-4">
-                          <a href="https://flowbite.com/" class="hover:underline">ChatBot SanJuan</a>
+                          <a href="" class="hover:underline">ChatBot SanJuan</a>
                       </li>
                       <li>
-                          <a href="https://tailwindcss.com/" class="hover:underline">Turnos SanJuan</a>
+                          <a href="" class="hover:underline">Turnos SanJuan</a>
                       </li>
                   </ul>
               </div>
@@ -25,10 +25,10 @@ export const Footer =()=>{
                   <h2 class="mb-6 text-sm font-semibold text-white uppercase">Síguenos</h2>
                   <ul class="text-white font-medium">
                       <li class="mb-4">
-                          <a href="https://github.com/themesberg/flowbite" class="hover:underline ">Github</a>
+                          <a href="" class="hover:underline ">Github</a>
                       </li>
                       <li>
-                          <a href="https://discord.gg/4eeurUVvTy" class="hover:underline">Discord</a>
+                          <a href="" class="hover:underline">Discord</a>
                       </li>
                   </ul>
               </div>

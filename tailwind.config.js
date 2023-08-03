@@ -3,6 +3,9 @@ export default {
   content: ["./src/**/*.{html,js,jsx}"],
   theme: {
     extend: {
+      fontFamily: {
+        'fontnew': ['Raleway', 'sans-serif']
+      },
       colors: {
         primary: "#000",
         fondosec: "#D0F7C4",
